@@ -1,0 +1,15 @@
+1-Desligar a maquina 
+
+2-pegar o pano 
+
+3-Limpar a maquina 
+
+4-Devolver o pano
+
+5-Guardar o mouse 
+
+6-Guardar a maquina
+
+7-Organizar os cabos 
+
+8-ir embora 
